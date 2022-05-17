@@ -1,0 +1,5 @@
+name: Reclaims
+version: 1.0-SNAPSHOT
+author: "Viiral"
+main: me.viiral.reclaim.ReclaimPlugin
+depend: [Vault]
